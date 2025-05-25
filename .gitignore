@@ -1,0 +1,19 @@
+# Python tmp files
+__pycache__
+*.pyc
+*.pckl
+
+# Environments
+.env
+.venv
+.langgraph_api/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.idea
+.vscode
+.langgraph_api
